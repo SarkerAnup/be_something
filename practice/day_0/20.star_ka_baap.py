@@ -1,0 +1,10 @@
+print("1. Sirius A  (Alpha Canis Majoris)");
+print("2. Canopus (Alpha Carinae)");
+print("3. Rigil Kentaurus (Alpha Centauri)");
+print("4. Arcturus (Alpha Bootis)");
+print("5. Vega (Alpha Lyrae)");
+print("6. Capella (Alpha Aurigae)");
+print("7. Rigel (Beta Orionis)");
+print("8. Procyon (Alpha Canis Minoris)");
+print("9. Achernar (Alpha Eridani)");
+print("10. Betelgeuse (Alpha Orionis)");
