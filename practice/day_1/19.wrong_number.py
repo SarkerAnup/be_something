@@ -1,0 +1,2 @@
+Tazri = good
+print(Anup)

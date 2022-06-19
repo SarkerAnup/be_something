@@ -1,0 +1,3 @@
+apple_is_good_but_banana_is_very_good_and_orange_better_then_those_frouts =True
+
+print(apple_is_good_but_banana_is_very_good_and_orange_better_then_those_frouts)
