@@ -4,7 +4,7 @@
 
 BE SOMETHING
 ===========
-আমি Programming করতে চাই কারন এটা খুব ভালো লাগে এবং এটা আমার ছোট বেলা থেকেই অনেক ভালো লাগে আমি আমার ভূবিষ্যতে এটা পেশা হিসাবে নিচে চাই। Because I want earn more money for my family members with Gods I always do my best.
+আমি Programming করতে চাই কারন এটা খুব ভালো লাগে এবং এটা আমার ছোট বেলা থেকেই অনেক ভালো লাগে আমি আমার ভূবিষ্যতে এটা পেশা হিসাবে নিতে চাই। Because I want earn more money for my family members with Gods I always do my best.
 
 <br />
 
